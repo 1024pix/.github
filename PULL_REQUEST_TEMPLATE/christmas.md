@@ -8,4 +8,7 @@
 <!-- Des infos supplémentaires, trucs et astuces ? -->
 
 ## :santa: Pour tester
-<!-- Les instructions pour reproduire le problème, les profils de test, le parcours spécifique à utiliser, etc. -->
+<!-- 
+Les instructions pour reproduire le problème, les profils de test, le parcours spécifique à utiliser, etc. 
+- [ ] Documentation de la fonctionnalité (lien)
+-->
